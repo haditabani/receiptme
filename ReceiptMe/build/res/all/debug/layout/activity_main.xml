@@ -11,7 +11,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="Welcome to Receipt me. Sign in with Dropbox!"
+        android:singleLine="false"
+        android:password="false"
+        android:phoneNumber="false"
+        android:textColor="#6474ff"/>
 
 </RelativeLayout>
 <!-- From: file:/Users/apple/Documents/receiptme/ReceiptMe/src/main/res/layout/activity_main.xml -->
