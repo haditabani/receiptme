@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378524731000 412 5e3762838674738ea64f06496ac27fd07a85c189 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$layout.class
+1378524731000 470 a4e592bf236549f0d2ac31bf77d033861ff38ac0 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$dimen.class
+1378524731000 402 bb3e0c19c422d35e6eeb37ebeebbc38ea60adf78 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$id.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1378524731000 823 88ab22c253d0f6ef106428faacdb7f4328e2b5eb /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/MainActivity.class
+1378524731000 416 675c4e10d3889238dc2d6b85576140dc5f597753 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$drawable.class
+1378524731000 349 63921be8d8f85bdd2afdf857c8bc7d1285c221be /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$attr.class
+1378524731000 440 e970d60afd83f647dad44a69bdd36e4bab3b346c /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$style.class
+1378524731000 351 d362b941baf4b0ce0aa67d6935d4dee24f1df829 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/BuildConfig.class
+1378524731000 481 15e58659c934ce41624d1d7e2a3853ab4b98a4cf /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$string.class
+1378524731000 707 d87fe89b9d4ab8643e5bca18eeaf19b60c916081 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R.class
+1378524731000 397 2b4f8a6ac687532a419aff5d2fb4b2114f588509 /Users/apple/Documents/receiptme/ReceiptMe/build/classes/debug/com/example/receiptme/R$menu.class
